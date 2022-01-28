@@ -5,8 +5,7 @@ function App() {
   return (
     <>
       <Navbar title="Monke" aboutText="chungus" />
-      <div className="container">
-      </div>
+      
     </>
   );
 }
